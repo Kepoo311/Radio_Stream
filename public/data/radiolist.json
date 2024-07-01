@@ -1,0 +1,59 @@
+
+[
+    {
+        "stationuuid": "16cc7691-8785-4e36-ae75-c9376eedfdcf",
+        "name": "Most 105.8 FM Jakarta",
+        "favicon": "https://images.noiceid.cc/catalog/content-1614529804201.jpg",
+        "state": "Jakarta",
+        "votes": 226
+    },
+    {
+        "stationuuid": "60cf8889-689e-49e5-8f0b-992c0fa3f567",
+        "name": "_Wawa Radio 101.2 FM",
+        "favicon": "",
+        "state": "ꦗꦺꦴꦒ꧀ꦗꦏꦂꦠ",
+        "votes": 41
+    },
+    {
+        "stationuuid": "e45432b8-4a04-4ec8-9f9f-670d0964f441",
+        "name": "101 Jak FM Streaming Online – Jakarta",
+        "favicon": "https://jak101fm.com/wp-content/uploads/2020/08/cropped-logo-jak-bar-1-180x180.png",
+        "state": "",
+        "votes": 66
+    },
+    {
+        "stationuuid": "af8dd437-d0b2-49e9-8a9c-99bf5bd7f1f1",
+        "name": "101.5 cakrawala FM surabaya",
+        "favicon": "http://cakrawalafm.net/upload/theme/logo.png",
+        "state": "",
+        "votes": 174
+    },
+    {
+        "stationuuid": "a56d0bc8-68a9-4b60-97bd-68554ee5df21",
+        "name": "104.6 FM - MNC TRIJAYA",
+        "favicon": "https://www.mnctrijaya.com/favicon.ico",
+        "state": "",
+        "votes": 9
+    },
+    {
+        "stationuuid": "2eb5bc01-59fa-41e8-96a8-f34a44c13a9a",
+        "name": "106.6 FM - V Radio",
+        "favicon": "",
+        "state": "",
+        "votes": 8
+    },
+    {
+        "stationuuid": "e256f349-4796-4998-971c-f0d22f3465f8",
+        "name": "1921 Baliheadbanger Music",
+        "favicon": "https://blogger.googleusercontent.com/img/a/AVvXsEhdrOev9J4qtJ2fy3--jDuqSEJS0xtjR7ujzHbl5xZKHjnq8nlozAiNlCi-6cOBeTjNKKa7p2RFw5NdpYDl7y419h1h9nVTKrbnMdJWo0Eoug96sWYJ7YTYvvx-AIwSMsv3iCXsWn9yRWdGLTYJk9WOPW6XTRDRyqitB_6OOgLZQymiLo1yvLXRYfkwmA=s1600",
+        "state": "Bali",
+        "votes": 13
+    },
+    {
+        "stationuuid": "448ecafa-5ecf-4360-8820-a1b01b26a42c",
+        "name": "80's Radio Hits",
+        "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FJR5LbBqopaOdFvbypWfTwXwCqL7qOEdez_dfztqUlIQ%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNnM01uTTNBc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNnNXMzOXVBb01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2OTcyNDgxOTEwMDA.webp",
+        "state": "",
+        "votes": 7
+    }
+]

@@ -1,0 +1,5 @@
+#hero{
+    background-image: url(../img/bg.svg);
+    background-repeat: repeat;
+    background-size: 100px 100px;
+}
